@@ -1,5 +1,5 @@
 Django==1.11
-djangorestframework==3.6.2
+djangorestframework==3.11.2
 pytz==2019.1
 appdirs==1.4.3
 packaging==16.8
